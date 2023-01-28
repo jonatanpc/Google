@@ -138,8 +138,7 @@ nav .profile-link a{
 
 .blogs-main-new{
     display: grid;
-    grid-template-columns: 2fr 1fr;
-    grid-template-rows: 2fr;    
+    
 }
 
 
@@ -149,7 +148,7 @@ nav .profile-link a{
 }
 
 .blogs-news-img-container img{
-width: 25%;
+width: 45%;
 background-position: right;
 }
 
@@ -158,7 +157,7 @@ background-position: right;
     
 }
 .blogs-news-container h3{
-    text-align: center;
+    text-align: right;
 }
 
 .blogs-news-container h2{
@@ -181,9 +180,9 @@ background-position: right;
 }
 
 .blogs-button{
-border: 1px solid #47cfac;
-padding: 10px 15px;
-font-size: 12px;
+    border: 1px solid #47cfac;
+    padding: 10px 15px;
+    font-size: 12px;
 }
 
 .blogs-posts-container .post-container{
@@ -195,7 +194,7 @@ font-size: 12px;
 
 .blogs-posts-container .post-container p{
 
-    margin-bottom: 35px;
+    margin-bottom: 40px;
 }
 
 .blogs-posts-container .post-container img{
