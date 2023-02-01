@@ -189,7 +189,7 @@ background-position: right;
     display: inline-block; /*forma horizontal*/
     padding-left: 10px;
     max-width: 30%;
-    margin-bottom: 50px;
+    margin-bottom: 70px;
 }
 
 .blogs-posts-container .post-container p{
@@ -197,6 +197,8 @@ background-position: right;
     margin-bottom: 40px;
     
 }
+
+
 
 .blogs-posts-container .post-container img{
     width: 100%;
@@ -268,3 +270,21 @@ padding-bottom: 50px;
 .contact-main-container img{
     width: 100px;
 }
+
+.blogpost-main-container h2{
+    text-align: initial;
+    margin-top: 100px;
+}
+
+.blogpost-main-container h3{
+    text-align: initial;
+    margin-top: 80px;
+    margin-left:300px;
+}
+
+.blogpost-main-container img{
+    text-align: initial;
+    margin-left: 10px;
+    margin-top: -120px;
+}
+
