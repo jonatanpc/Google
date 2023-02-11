@@ -289,6 +289,56 @@ footer p{
 
  
 
+
+.blogpost-main-container .creatina{
+    display: inline-block;
+    padding-left: 25px;
+    max-width: 30%;
+    margin-bottom: 70px;
+}
+
+.blogpost-main-container .creatina p{
+    margin-bottom: 35px;
+ }
+
+.blogpost-main-container .creatina img{
+    width: 100%;
+}
+
+ 
+.blogpost-main-container .vitaminas{
+    display: inline-block;
+    padding-left: 25px;
+    max-width: 30%;
+    margin-bottom: 70px;
+}
+
+.blogpost-main-container .vitaminas p{
+    margin-bottom: 70px;
+ }
+
+.blogpost-main-container .vitaminas img{
+    width: 100%;
+}
+
+ 
+.blogpost-main-container .oxidos{
+    display: inline-block;
+    padding-left: 25px;
+    max-width: 30%;
+    margin-bottom: 70px;
+}
+
+.blogpost-main-container .oxidos p{
+    margin-bottom: 70px;
+ }
+
+.blogpost-main-container .oxidos img{
+    width: 100%;
+}
+
+
+
 .contact-main-container {
 width: 100%;
 min-height: 250px;
